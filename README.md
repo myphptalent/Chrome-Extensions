@@ -1,2 +1,2 @@
 # Chrome-Extensions
-This is related to tutorial
+This is a basic tutorial related to Chorme-Extensions.
